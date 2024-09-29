@@ -38,7 +38,7 @@ Here file Part_A_and_B.ipynb file has been added to repository.
 
     **git add .** 
 	**git commit -m “message”**
-    
+
 ![doker_login](images/git/5.png)
 
 ### Step 2: Create a GitHub repository
@@ -66,7 +66,7 @@ Link: https://github.com/gtshen173/DSTS_Assignment_1_U3268781.git
     **git push -u origin main**
 
 
-![doker_login](images/git/7.png)
+![doker_login](images/git/9.png)
 
 ### Step 4: Creating readme.md file and pushing to git repository
 
