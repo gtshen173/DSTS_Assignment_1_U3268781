@@ -38,7 +38,8 @@ Here file Part_A_and_B.ipynb file has been added to repository.
 
     **git add .** 
 	**git commit -m “message”**
-
+    
+![doker_login](images/git/5.png)
 
 ### Step 2: Create a GitHub repository
 
@@ -47,7 +48,7 @@ Here file Part_A_and_B.ipynb file has been added to repository.
 - Name repository (e.g.,DSTS_Assignment_1_U3268781) 
 - Click "Create repository."
 
-![doker_login](images/git/5.png)
+![doker_login](images/git/3.1.png)
 
 
 ### Step 3. Connect your local repository to GitHub
