@@ -1,4 +1,4 @@
-# DSTS Assignment 1 Docker Image - U3268781
+# DSTS Assignment 1 Docker Commands - U3268781
 
 This file have list of docker commands I used to push to respository.
 
