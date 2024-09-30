@@ -50,13 +50,18 @@ You can install the required libraries by running:
 pip install -r requirements.txt
 ```
     or 
+```bash
 pip install libraries 
+```
     or 
+```bash
 conda install libraries
+```
+or 
 
-eg 
-***pip install pandas numpy seaborn geopandas matplotlib scikit-learn ast***
-
+```bash
+pip install pandas numpy seaborn geopandas matplotlib scikit-learn ast
+```
 
 
 ## How to Run
@@ -66,8 +71,13 @@ You can run the code in your local machine or in Docker
 ### Run in Local Machine
 
 Clone the repository as follows 
-- ***git clone https://github.com/gtshen173/DSTS_Assignment_1_U3268781.git***
+```bash
+git clone https://github.com/gtshen173/DSTS_Assignment_1_U3268781.git
+```
+
+```bash
 - cd DSTS_Assignment_1_U3268781
+```
 
 Open the file Part_A_and_B.ipynb file in Jupyter Notebook or Visual Studio Code and execute the cells in sequence to run the code.
 
@@ -87,16 +97,20 @@ It has two Parts
 
 - Pull the Docker Image on CMD or bash 
 
-    ***docker pull gtshen173/dsts_assignment1_u3268781***
+```bash
+docker pull gtshen173/dsts_assignment1_u3268781***
+```
 
 - Run the Docker Images
 
-    ***docker run -it gtshen173/dsts_assignment1_u3268781***
-
+```bash
+docker run -it gtshen173/dsts_assignment1_u3268781***
+```
         (OR)
 
-    ***docker run -it -p 8080:80 gtshen173/dsts_assignment1_u3268781***
-
+```bash
+docker run -it -p 8080:80 gtshen173/dsts_assignment1_u3268781
+```
 
 ## Predictive Model Used
 
@@ -131,4 +145,4 @@ It has two Parts
 **University of Canberra**<br>
 **Email: U3268781@uni.canberra.edu.au**<br>
 
-#### Thank YOu
+####                Thank You
